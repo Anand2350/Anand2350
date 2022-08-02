@@ -11,10 +11,6 @@
 
 - ⚡ Fun fact **I think I funny**
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/anand2350" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="anand2350" height="30" width="40" /></a>
@@ -23,7 +19,7 @@
 <a href="https://fb.com/yanand23507" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="yanand23507" height="30" width="40" /></a>
 <a href="https://instagram.com/anand_yaduvanshi.official" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anand_yaduvanshi.official" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/https://www.codechef.com/users/anand2350" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/anand2350" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/anand_kumar1_sc1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="anand_kumar1_sc1" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/anand_kumar1_sc1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="anand_kumar1_sc1" height="30" width="40" /></a> 
 <a href="https://www.leetcode.com/anand2350" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="anand2350" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@anand2130" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@anand2130" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/anandkumar1scsebtech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="anandkumar1scsebtech" height="30" width="40" /></a>
