@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Web Development**
 
-- 💬 Ask me about **Java, Python, Data Structure Algorithm**
+- 💬 Ask me about **Java,Data Structure Algorithm**
 
 - 📫 How to reach me **anandkumar23507@gmail.com**
 
